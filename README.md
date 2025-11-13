@@ -1,12 +1,13 @@
-Kullandığım Teknolojiler:
+# Conset Flower Projesi
+##Kullandığım Teknolojiler:
 
-frontend için : React, Vite, JavaScript, HTML, CSS
+###frontend için : React, Vite, JavaScript, HTML, CSS
 backend için : Node.js
 
-Bu projeyi çalıştırabilmek için gereksinimler : Node.js 
+###Bu projeyi çalıştırabilmek için gereksinimler : Node.js 
 kurmak için npm install
 
-Bu proje nasıl çalıştırılır : 
+###Bu proje nasıl çalıştırılır : 
 
 1- Backend kısmını başlatmak için terminalde sırasıyla
 cd backend
