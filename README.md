@@ -19,6 +19,8 @@ cd src
 npm run dev
 komutları yazılmalıdır.
 
+**Form gönderim sonrası kullanıcıya başarı mesajı:**
+
 ![Form ekranı](https://github.com/user-attachments/assets/095d26ac-1837-4eac-be98-101abe08d3f4)
 
 **Form ile gönderilen içerikler `.txt` dosyasına kaydediliyor:**
