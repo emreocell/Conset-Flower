@@ -1,0 +1,53 @@
+.hakkimizda-section {
+  min-height: 100vh;
+  padding: 5rem 2rem;
+  background-color: #d1fae5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.hakkimizda-container {
+  max-width: 800px;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  background-color: rgba(255,255,255,0.7);
+  backdrop-filter: blur(8px);
+}
+
+.hakkimizda-section h2 {
+  font-size: 2.5rem;
+  color: #065f46;
+  margin-bottom: 1rem;
+}
+
+.hakkimizda-subtitle {
+  font-size: 1.2rem;
+  color: #047857;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+
+.hakkimizda-text {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #065f46;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 640px) {
+  .hakkimizda-section {
+    padding: 3rem 1rem;
+  }
+  .hakkimizda-section h2 {
+    font-size: 2rem;
+  }
+  .hakkimizda-subtitle {
+    font-size: 1rem;
+  }
+  .hakkimizda-text {
+    font-size: 0.95rem;
+  }
+}
