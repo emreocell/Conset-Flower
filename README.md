@@ -29,8 +29,7 @@ komutları yazılmalıdır.
 
 **JSON-LD LocalBusiness yapısı:**
 
-![JSON-LD LocalBusiness](https://github.com/user-attachments/assets/cb5c3649-a448-4d01-9522-0716f786c4c0")
-
+![JSON-LD LocalBusiness](https://github.com/user-attachments/assets/dc5088f9-79e2-4058-a767-8f1b8c77e54b)
 
 **Open Graph etiketleri:**
 
